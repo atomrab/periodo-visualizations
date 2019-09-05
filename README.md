@@ -1,7 +1,7 @@
 # Documentation for the Palladio Visualizations for PeriodO
 
 ## Scope
-This work is a Proof of Concept - proving that Palladio Bricks and be used for PeriodO visualizations.
+This work is a Proof of Concept - proving that Palladio Bricks can be used for PeriodO visualizations.
 
 Two visualizations - Timespan and Maps - have been successfully demonstrated. This document explains the concepts behind the visualizations. It also includes tips on how to modify and improve on the work we have done.
 
