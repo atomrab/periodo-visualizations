@@ -6,7 +6,7 @@ This work is a Proof of Concept - proving that Palladio Bricks and be used for P
 Two visualizations - Timespan and Maps - have been successfully demonstrated. This document explains the concepts behind the visualizations. It also includes tips on how to modify and improve on the work we have done.
 
 ## Data Flow in the POC
-Before it can be visualized, the period data needs to be processed and shaped the way Palladio prefers. We need three data files - the periods you want to visualize (in the PeriodO JSON-LD format), [the entire PeriodO dataset](https://data.perio.do/d/"), and the [PeriodO place geometries and metadata dataset](https://data.perio.do/graphs/places.json) .
+Before it can be visualized, the period data needs to be processed and shaped the way Palladio prefers. We need three data files - the periods you want to visualize (in the PeriodO JSON-LD format), [the entire PeriodO dataset](https://data.perio.do/d/), and the [PeriodO place geometries and metadata dataset](https://data.perio.do/graphs/places.json) .
 
 We take these three datasets and turn them into two CSV files - one for the periods (with one row per period) and another for locations (with one row per location).
 
